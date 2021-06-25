@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+    color: black;
+    font-family: arial;
+    margin: 1cm;
+}
+
+label{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+button{
+    padding: 10px;
+    font-size: 15px;
+    color: black;
+    background-color: greenyellow;
+}
+
+input{
+    height: 30px;
+    border: initial 1px black;
+}
+
+button:hover{
+cursor: pointer;
+color: lawngreen;
+background-color: limegreen;
+}
